@@ -1,4 +1,4 @@
-# #Instacart Grocery Basket
+# Instacart Grocery Basket
 
 Este proyecto realiza un análisis completo del comportamiento de compra dentro de la plataforma Instacart. Utilizando cinco tablas principales (pedidos, productos, departamentos, historial de compras y más), se lleva a cabo limpieza, preprocesamiento, integración de datos y análisis exploratorio para comprender cómo, cuándo y qué compran los usuarios.
 
